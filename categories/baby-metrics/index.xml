@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baby Metrics on AC&#39;s Blog (formerly known as Choicy White Boy)</title>
+    <link>https://blog.accapehart.com/categories/baby-metrics/</link>
+    <description>Recent content in Baby Metrics on AC&#39;s Blog (formerly known as Choicy White Boy)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>choicywhiteboy@accapehart.com (AC Capehart)</managingEditor>
+    <webMaster>choicywhiteboy@accapehart.com (AC Capehart)</webMaster>
+    <lastBuildDate>Sat, 11 Feb 2006 21:18:39 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.accapehart.com/categories/baby-metrics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>It’s NOT all about the poop!</title>
+      <link>https://blog.accapehart.com/2006/02/its-not-all-about-the-poop/</link>
+      <pubDate>Sat, 11 Feb 2006 21:18:39 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2006/02/its-not-all-about-the-poop/</guid>
+      <description>We&amp;#8217;ve taken some grief recently over SamTrak. People seem to think it&amp;#8217;s a bit beyond the pale to be tracking Sam&amp;#8217;s feeding and elimination habits on the Internet. But, there is reason to my madness. Because of her size, we needed to track feeding and elimination. Because it&amp;#8217;s me, it seemed easiest to do this online (access from any computer instead of &amp;#8220;Where&amp;#8217;s the little black poop notebook?&amp;#8221;). Now, I could have done it on my private house-network, but then Carolyn couldn&amp;#8217;t have accessed the information from work.</description>
+    </item>
+    
+    <item>
+      <title>Monthly Diaper Summary</title>
+      <link>https://blog.accapehart.com/2006/02/monthly-diaper-summary-4/</link>
+      <pubDate>Wed, 01 Feb 2006 05:00:23 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2006/02/monthly-diaper-summary-4/</guid>
+      <description>Hmm. Not sure why this isn&amp;#8217;t working. Will look into it later.
+AC
+&amp;lt;?php $month=&amp;lsquo;01&amp;rsquo;; $year=2006;
+require_once (&amp;ldquo;charts.php&amp;rdquo;); echo InsertChart (&amp;ldquo;http://www.choicywhiteboy.com/charting/charts.swf&amp;quot;, &amp;ldquo;http://www.choicywhiteboy.com/charting/charts_library&amp;quot;, &amp;ldquo;http://www.choicywhiteboy.com/charting/diaper_chart_generator.php?month=$month&amp;amp;#038;year=$year&amp;quot;,640,480,&amp;quot;000088&amp;quot;);
+?&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>Monthly Diaper Summary</title>
+      <link>https://blog.accapehart.com/2006/01/monthly-diaper-summary-3/</link>
+      <pubDate>Sun, 01 Jan 2006 05:00:10 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2006/01/monthly-diaper-summary-3/</guid>
+      <description>&amp;lt;?php $month=12; $year=2005;
+require_once (&amp;ldquo;charts.php&amp;rdquo;); echo InsertChart (&amp;ldquo;http://www.choicywhiteboy.com/charting/charts.swf&amp;quot;, &amp;ldquo;http://www.choicywhiteboy.com/charting/charts_library&amp;quot;, &amp;ldquo;http://www.choicywhiteboy.com/charting/diaper_chart_generator.php?month=$month&amp;amp;#038;year=$year&amp;quot;,640,480,&amp;quot;000088&amp;quot;);
+?&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>Introducing Baby Metrics</title>
+      <link>https://blog.accapehart.com/2005/12/introducing-baby-metrics/</link>
+      <pubDate>Tue, 13 Dec 2005 08:01:19 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/12/introducing-baby-metrics/</guid>
+      <description>I now have a new category &amp;#8212; Baby Metrics. It&amp;#8217;s where I&amp;#8217;ll be putting up summary information of the raw data contained in SamTrak. I&amp;#8217;m currently using charting software just for the diaper activity. I&amp;#8217;m undecided on it. It creates Flash graphs, which are pretty cool, but still rub me the wrong way. Maybe for no good reason. I was looking for a gd-based graphing tool and found jpgraph which seemed pretty neat.</description>
+    </item>
+    
+    <item>
+      <title>Monthly Diaper Summary</title>
+      <link>https://blog.accapehart.com/2005/12/monthly-diaper-summary-2/</link>
+      <pubDate>Thu, 01 Dec 2005 05:00:15 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/12/monthly-diaper-summary-2/</guid>
+      <description>&amp;lt;?php $month=11; $year=2005;
+require_once (&amp;ldquo;charts.php&amp;rdquo;); echo InsertChart (&amp;ldquo;http://www.choicywhiteboy.com/charting/charts.swf&amp;quot;, &amp;ldquo;http://www.choicywhiteboy.com/charting/charts_library&amp;quot;, &amp;ldquo;http://www.choicywhiteboy.com/charting/diaper_chart_generator.php?month=$month&amp;amp;#038;year=$year&amp;quot;,640,480,&amp;quot;000088&amp;quot;);
+?&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>Monthly Diaper Summary</title>
+      <link>https://blog.accapehart.com/2005/11/monthly-diaper-summary/</link>
+      <pubDate>Tue, 01 Nov 2005 05:00:52 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/11/monthly-diaper-summary/</guid>
+      <description>&amp;lt;?php $month=10; $year=2005;
+require_once (&amp;ldquo;charts.php&amp;rdquo;); echo InsertChart (&amp;ldquo;http://www.choicywhiteboy.com/charting/charts.swf&amp;quot;, &amp;ldquo;http://www.choicywhiteboy.com/charting/charts_library&amp;quot;, &amp;ldquo;http://www.choicywhiteboy.com/charting/diaper_chart_generator.php?month=$month&amp;amp;#038;year=$year&amp;quot;,640,480,&amp;quot;000088&amp;quot;);
+?&amp;gt;</description>
+    </item>
+    
+  </channel>
+</rss>

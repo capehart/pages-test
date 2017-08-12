@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links on AC&#39;s Blog (formerly known as Choicy White Boy)</title>
+    <link>https://blog.accapehart.com/categories/links/</link>
+    <description>Recent content in Links on AC&#39;s Blog (formerly known as Choicy White Boy)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>choicywhiteboy@accapehart.com (AC Capehart)</managingEditor>
+    <webMaster>choicywhiteboy@accapehart.com (AC Capehart)</webMaster>
+    <lastBuildDate>Fri, 28 Sep 2007 05:24:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.accapehart.com/categories/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tactful Nerds</title>
+      <link>https://blog.accapehart.com/2007/09/tactful-nerds/</link>
+      <pubDate>Fri, 28 Sep 2007 05:24:00 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2007/09/tactful-nerds/</guid>
+      <description>This link made the rounds at work today. I shared it with bk and Carolyn, my only (semi-)regular non-Linden workday correspondents, and Carolyn suggested I blog it. I won&amp;#8217;t steal the thunder from the article to recreate it here, but it&amp;#8217;s a short read and reasonably insightful if perhaps a little over-broad. It&amp;#8217;s about the &amp;#8220;tact filter&amp;#8221; and its orientation between nerds and &amp;#8220;normal&amp;#8221; people. [[In an age where people have &amp;#8216;(re)claimed&amp;#8217; geekness to the point where &amp;#8216;athletics geek&amp;#8217; is no longer a completely laughable oxymoron, is there such a thing as a &amp;#8216;normal&amp;#8217; person?</description>
+    </item>
+    
+    <item>
+      <title>Desktop Tower Defense</title>
+      <link>https://blog.accapehart.com/2007/05/desktop-tower-defense/</link>
+      <pubDate>Sat, 26 May 2007 16:58:17 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2007/05/desktop-tower-defense/</guid>
+      <description>A friend of mine from work, Yoz, keeps introducing me (sometimes, indirectly) to addictive little shockwave games. Here&amp;#8217;s another one of them: Desktop Tower Defense. The main problem is that it can take a good deal of time to get through. But like all good games, the time goes really quickly, at least subjectively!</description>
+    </item>
+    
+  </channel>
+</rss>

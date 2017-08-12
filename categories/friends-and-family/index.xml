@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Friends And Family on AC&#39;s Blog (formerly known as Choicy White Boy)</title>
+    <link>https://blog.accapehart.com/categories/friends-and-family/</link>
+    <description>Recent content in Friends And Family on AC&#39;s Blog (formerly known as Choicy White Boy)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>choicywhiteboy@accapehart.com (AC Capehart)</managingEditor>
+    <webMaster>choicywhiteboy@accapehart.com (AC Capehart)</webMaster>
+    <lastBuildDate>Tue, 21 Feb 2012 04:22:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.accapehart.com/categories/friends-and-family/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Still Runs</title>
+      <link>https://blog.accapehart.com/2012/02/still-runs/</link>
+      <pubDate>Tue, 21 Feb 2012 04:22:06 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2012/02/still-runs/</guid>
+      <description>About 20 years ago, my grandfather &amp;#8220;(Grand) Pop&amp;#8221; died. I still remember packing up his model trains with my dad and some of the rest of the family. The specific bit of his legacy for me. They hadn&amp;#8217;t been unpacked since. Instead, they followed me from place to place still in the boxes we packed back then. For the past several years, they were stored with the inlaws who recently kindly suggested that maybe it was time for them to come home.</description>
+    </item>
+    
+    <item>
+      <title>SIGGRAPH recap coming</title>
+      <link>https://blog.accapehart.com/2007/08/siggraph-recap-coming/</link>
+      <pubDate>Mon, 13 Aug 2007 05:36:30 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2007/08/siggraph-recap-coming/</guid>
+      <description>I wrote a long and detailed trip report on my recent SIGGRAPH trip for work.&amp;nbsp; I was figuring to simply copy-paste it here, but in review, it seems a little too Linden-centric, so over the next couple of days I&amp;#8217;ll try to figure out how best to excerpt it/restructure it to bring it out here.&amp;nbsp; I was embarrassed that Carolyn had (until just now) written my two most recent blog entries and even so they were a month apart.</description>
+    </item>
+    
+  </channel>
+</rss>

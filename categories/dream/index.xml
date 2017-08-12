@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dream on AC&#39;s Blog (formerly known as Choicy White Boy)</title>
+    <link>https://blog.accapehart.com/categories/dream/</link>
+    <description>Recent content in Dream on AC&#39;s Blog (formerly known as Choicy White Boy)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>choicywhiteboy@accapehart.com (AC Capehart)</managingEditor>
+    <webMaster>choicywhiteboy@accapehart.com (AC Capehart)</webMaster>
+    <lastBuildDate>Sat, 27 Jun 2009 15:58:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.accapehart.com/categories/dream/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>weird work dream</title>
+      <link>https://blog.accapehart.com/2009/06/weird-work-dream/</link>
+      <pubDate>Sat, 27 Jun 2009 15:58:27 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2009/06/weird-work-dream/</guid>
+      <description>I woke from a weird dream this morning. A new colleague (who doesn&amp;#8217;t really exist) was objecting to some work that I wanted to do that would leverage the cloud and improve the user experience because it would &amp;#8220;cause more workload.&amp;#8221; Some time later, we&amp;#8217;re at a webdev meeting and I realize I&amp;#8217;m the supervisor of all these people and the team is so large it&amp;#8217;s unwieldy. Someone higher up in the organization is talking to us about something that&amp;#8217;s not particularly engaging.</description>
+    </item>
+    
+  </channel>
+</rss>

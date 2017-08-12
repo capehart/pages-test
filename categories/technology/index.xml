@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on AC&#39;s Blog (formerly known as Choicy White Boy)</title>
+    <link>https://blog.accapehart.com/categories/technology/</link>
+    <description>Recent content in Technology on AC&#39;s Blog (formerly known as Choicy White Boy)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>choicywhiteboy@accapehart.com (AC Capehart)</managingEditor>
+    <webMaster>choicywhiteboy@accapehart.com (AC Capehart)</webMaster>
+    <lastBuildDate>Sun, 14 Oct 2012 16:58:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.accapehart.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big Ta Ta’s</title>
+      <link>https://blog.accapehart.com/2012/10/big-ta-tas/</link>
+      <pubDate>Sun, 14 Oct 2012 16:58:25 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2012/10/big-ta-tas/</guid>
+      <description>Or &amp;#8220;How to proofread a job posting&amp;#8221;.
+I came across this posting on the python group I&amp;#8217;m a member of on (in?) Linked In.
+The first typo, was a bit awkward, but I could see how it would happen during an editing/revision session when that session wasn&amp;#8217;t followed by a proofreading. &amp;#8220;Our client is a leader in the worldwide leader&amp;#8221;. So, what you&amp;#8217;re saying is they lead?
+But what actually cracked me up was the simple substitution of a &amp;#8220;t&amp;#8221; where a &amp;#8220;d&amp;#8221; should go.</description>
+    </item>
+    
+    <item>
+      <title>Moar Speed? Moar Packet Loss</title>
+      <link>https://blog.accapehart.com/2011/07/moar-speed-moar-packet-loss/</link>
+      <pubDate>Fri, 22 Jul 2011 21:34:17 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2011/07/moar-speed-moar-packet-loss/</guid>
+      <description>&amp;#8212; 75.75.0.1 ping statistics &amp;#8212;
+203 packets transmitted, 148 packets received, 27.1% packet loss
+round-trip min/avg/max/stddev = 6.303&amp;frasl;43.857&amp;frasl;4017.386&amp;frasl;327.895 ms
+ I just wrote how much better my very fast internet is. However, things are not looking so rosy right now. 27% packet los to my upstream router is not so good.</description>
+    </item>
+    
+    <item>
+      <title>Mail Rank</title>
+      <link>https://blog.accapehart.com/2011/03/mail-rank/</link>
+      <pubDate>Sun, 13 Mar 2011 18:04:59 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2011/03/mail-rank/</guid>
+      <description>I have two really smart friends who are building MailRank. I don&amp;#8217;t know more than they&amp;#8217;ve posted online or made inferences from their name, but I think they are trying to make email distinguish between the stuff you do care about (mail from your spouse) and stuff that&amp;#8217;s not spam, but you don&amp;#8217;t care about (mail from the bike shop, mail from your mom). If it works (and, to be sure, I&amp;#8217;ve got no idea how it possibly could), I&amp;#8217;d love to get a &amp;#8220;biff&amp;#8221; style notification of &amp;#8220;mail I do care about&amp;#8221;!</description>
+    </item>
+    
+    <item>
+      <title>Speed Kills</title>
+      <link>https://blog.accapehart.com/2010/12/speed-kills/</link>
+      <pubDate>Wed, 29 Dec 2010 14:19:03 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2010/12/speed-kills/</guid>
+      <description>After much humming and hawing, I signed up for broadband in Virginia with Comcast. I&amp;#8217;m wary of them based on their filtering, and other subscribers talking about their dropping idle connections (sometimes, long-lived SSH connections are handy). But I wasn&amp;#8217;t able to get much bandwidth from CenturyLink due to my location. So far, speedtest looks downright awesome. Here are the results from my new connection in Virginia.
+Here&amp;#8217;s what I get at the inlaws office where I&amp;#8217;m working now.</description>
+    </item>
+    
+    <item>
+      <title>Facial recognition</title>
+      <link>https://blog.accapehart.com/2010/04/facial-recognition/</link>
+      <pubDate>Mon, 26 Apr 2010 08:01:28 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2010/04/facial-recognition/</guid>
+      <description>I can&amp;#8217;t count how many times I have looked on the back of a photograph hoping the photographer wrote down who those people are, or when or where the photo was taken. Well, it would actually be a fairly small number, but boy is it annoying when you want the data and it just isn&amp;#8217;t there. Digital cameras will almost always automatically embed date information for you (and if not, then the software you pick them up with will!</description>
+    </item>
+    
+    <item>
+      <title>Need Macintosh DHCP help</title>
+      <link>https://blog.accapehart.com/2009/12/need-macintosh-dhcp-help/</link>
+      <pubDate>Mon, 21 Dec 2009 03:09:57 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2009/12/need-macintosh-dhcp-help/</guid>
+      <description>I&amp;#8217;m trying to simplify my computer network for my upcoming move, and so far, it&amp;#8217;s been going pretty well. I think we&amp;#8217;ll be able to run with just the D-Link DIR-655 (192.168.1.1) feeding a network with my new ReadyNas NV+ (192.168.1.3) acting as a central file store, iTunes server and Time Machine backup device. And we&amp;#8217;ll have a couple of MacBook Pros connecting either wired or wirelessly. In the meanwhile, we&amp;#8217;ve got a few other devices on the net including a printer, the old audiotron, etc.</description>
+    </item>
+    
+    <item>
+      <title>What the internet knows about me:</title>
+      <link>https://blog.accapehart.com/2009/09/what-the-internet-knows-about-me/</link>
+      <pubDate>Mon, 21 Sep 2009 16:47:32 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2009/09/what-the-internet-knows-about-me/</guid>
+      <description>I came across an interesting &amp;#8220;installation&amp;#8221; today at MIT. I think someone I follow tweeted it. It was interesting to me how it categorized my presence. The big bars were &amp;#8220;online&amp;#8221; &amp;#8220;management&amp;#8221; and &amp;#8220;education&amp;#8221;. &amp;#8220;sports&amp;#8221; is bigger than it has any right to be. It was interesting to see some of the things it grabbed. References to me from former professors, test emails to lists I set up while at IATH, my &amp;#8220;temporary&amp;#8221; home page.</description>
+    </item>
+    
+    <item>
+      <title>back</title>
+      <link>https://blog.accapehart.com/2009/06/back/</link>
+      <pubDate>Sun, 28 Jun 2009 02:27:00 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2009/06/back/</guid>
+      <description>Had a nice, if somewhat hot, day out motorcycling with Frank, formerly of Linden Lab, now of Aquarium of the Bay. Wandered the far east bay. Wound up again at Port Costa. Had drinks and a sandwich there. Watched trains and tankers and tugs. Talked. Thought. Threw rocks into the Carquinez Straight. Came back through Crockett (whence came &amp;#8220;The Rocket From Crockett&amp;#8220;) and got home around 6 PM.
+The last leg was really interesting from a meteorological perspective.</description>
+    </item>
+    
+    <item>
+      <title>A Faire Day Out</title>
+      <link>https://blog.accapehart.com/2009/05/a-faire-day-out/</link>
+      <pubDate>Sun, 31 May 2009 06:55:40 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2009/05/a-faire-day-out/</guid>
+      <description>Maker Faire!   &amp;lt;p&amp;gt; The three of us went to the Maker Faire ((Carolyn especially enjoyed the spelling of &amp;amp;#8220;Faire&amp;amp;#8221; as it&amp;amp;#8217;s the French infinitive of &amp;amp;#8220;to do&amp;amp;#8221; or &amp;amp;#8220;to make&amp;amp;#8221;! )) today. I was ambivalent about going originally as it seemed like it would be a bit of a hassle to get there. Originally, it was going to be only Sam and myself going, but as Carolyn helped us figure out how best to get there, she decided it looked interesting to her too, so we decided to all go.</description>
+    </item>
+    
+    <item>
+      <title>Panic on the streets of the information superhighway</title>
+      <link>https://blog.accapehart.com/2009/02/panic-on-the-streets/</link>
+      <pubDate>Mon, 09 Feb 2009 07:31:48 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2009/02/panic-on-the-streets/</guid>
+      <description>Something has happened at work that has caused me a certain amount of anxiety. In response to that, I decided I really needed a pet project. I still don&amp;#8217;t know what that project was going to be, but there were a few technologies that I thought I&amp;#8217;d like to know better / play with. Specifically, Twisted, Stackless and RabbitMQ.
+I got on to the ubuntu box that I host in the amazon cloud and started doing updates so that I had a current box to do some of the above installs on.</description>
+    </item>
+    
+    <item>
+      <title>Sam wrote her name today</title>
+      <link>https://blog.accapehart.com/2008/06/sam-wrote-her-name-today/</link>
+      <pubDate>Mon, 30 Jun 2008 01:06:41 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2008/06/sam-wrote-her-name-today/</guid>
+      <description>Well, OK, she didn&amp;#8217;t write her name by herself today. This morning, we practiced together with pen and paper. I tried to get her to hold the pen &amp;#8220;properly&amp;#8221; but didn&amp;#8217;t get far with that. Her &amp;#8216;S&amp;#8217; looked like something between a &amp;#8220;d&amp;#8221; and a squared-off &amp;#8220;o&amp;#8221;. But later in the afternoon, I set her down in front of AlphaBaby, and I pointed out some of the letters, drew her name with stars, etc.</description>
+    </item>
+    
+    <item>
+      <title>I am having Geek-Gasm,…</title>
+      <link>https://blog.accapehart.com/2008/06/i-am-having-geek-gasm/</link>
+      <pubDate>Sun, 15 Jun 2008 20:17:44 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2008/06/i-am-having-geek-gasm/</guid>
+      <description>I am having Geek Gasm, I just came across Jott.com and astonished. I&amp;#8217;ve already Jotted my Google calendar and I feel I can Jott my To-Do list, Remember the Milk too and now I am Jotting this blog entry. I called that in it gives a home meeting to some event(?). I am really impressed. listen
+Powered by Jott
+ WOW. Speech to text has become useful at http://jott.com/ The above is a blog entry &amp;#8220;written&amp;#8221; by voice.</description>
+    </item>
+    
+    <item>
+      <title>Seadragon and Photosynth</title>
+      <link>https://blog.accapehart.com/2007/09/seadragon-and-photosynth/</link>
+      <pubDate>Fri, 28 Sep 2007 20:55:20 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2007/09/seadragon-and-photosynth/</guid>
+      <description>OK, /this/ is the kind of thing I expected to stumble across at SIGGRAPH and didn&amp;#8217;t. But WOAH, this is cool:
+http://www.ted.com/index.php/talks/view/id/129</description>
+    </item>
+    
+    <item>
+      <title>On Keeping Up</title>
+      <link>https://blog.accapehart.com/2007/08/on-keeping-up/</link>
+      <pubDate>Mon, 20 Aug 2007 23:10:46 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2007/08/on-keeping-up/</guid>
+      <description>I am a couple of months behind in reading Wired, and just came across Clive Thomson&amp;#8217;s article on Twitter. Anyone who follows me (OK, just Yoz) knows how infrequently I update.&amp;nbsp; It&amp;#8217;s about like this blog.&amp;nbsp; There are two bits of it that struck a chord with me:
+ Productivity guru Tim Ferriss calls Twitter &amp;#8220;pointless email on steroids.&amp;#8221;
+ I had a very similar reaction to it when I first stumbled across it.</description>
+    </item>
+    
+    <item>
+      <title>Now Reading</title>
+      <link>https://blog.accapehart.com/2007/08/now-reading/</link>
+      <pubDate>Sat, 18 Aug 2007 06:02:47 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2007/08/now-reading/</guid>
+      <description>Well, as you can see from the sidebar change, I added &amp;#8220;Now Reading&amp;#8221; rather than writing my own. That&amp;#8217;s OK. I&amp;#8217;ll find something else to geek out on soon enough. I&amp;#8217;m wondering if I should generalize it to &amp;#8220;Now Consuming&amp;#8221; and add DVD&amp;#8217;s we&amp;#8217;re watching and games I&amp;#8217;m playing.</description>
+    </item>
+    
+    <item>
+      <title>Shiny Whore</title>
+      <link>https://blog.accapehart.com/2007/08/shiny-whore/</link>
+      <pubDate>Fri, 17 Aug 2007 05:16:20 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2007/08/shiny-whore/</guid>
+      <description>I&amp;#8217;m such a Shiny whore.&amp;nbsp; I was working on a love machine (in python and django which I still quite like).&amp;nbsp; I got pretty far along, but got stuck on how to deal with the creation and management of groups and let it drop.&amp;nbsp; Carolyn just posted an entry about books we&amp;#8217;re reading, and I&amp;#8217;d seen other bloggers (like dadblog) whom I&amp;#8217;ve not read in ages (sorry Joe) who have a little books sidebar.</description>
+    </item>
+    
+    <item>
+      <title>Starting to like flock</title>
+      <link>https://blog.accapehart.com/2007/08/starting-to-like-flock/</link>
+      <pubDate>Mon, 13 Aug 2007 06:08:36 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2007/08/starting-to-like-flock/</guid>
+      <description>Thanks to flock, I&amp;#8217;ve added pictures to my flicker stream for the first time since Sam was a little-bitty-baby.&amp;nbsp; Maybe it&amp;#8217;ll have me use del.icio.us more again too.&amp;nbsp; Still, some annoyances.&amp;nbsp; I can&amp;#8217;t seem to find how to have it default to spell-checking my form fields.&amp;nbsp; Though that may be I haven&amp;#8217;t stumbled across it yet.&amp;nbsp; I also wish it had a twitter interface.&amp;nbsp; Maybe instead of investigating flock, I should be digging through firefox plugins.</description>
+    </item>
+    
+    <item>
+      <title>SIGGRAPH recap coming</title>
+      <link>https://blog.accapehart.com/2007/08/siggraph-recap-coming/</link>
+      <pubDate>Mon, 13 Aug 2007 05:36:30 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2007/08/siggraph-recap-coming/</guid>
+      <description>I wrote a long and detailed trip report on my recent SIGGRAPH trip for work.&amp;nbsp; I was figuring to simply copy-paste it here, but in review, it seems a little too Linden-centric, so over the next couple of days I&amp;#8217;ll try to figure out how best to excerpt it/restructure it to bring it out here.&amp;nbsp; I was embarrassed that Carolyn had (until just now) written my two most recent blog entries and even so they were a month apart.</description>
+    </item>
+    
+    <item>
+      <title>The Love Machine (vol 1)</title>
+      <link>https://blog.accapehart.com/2007/06/the-love-machine-vol-1/</link>
+      <pubDate>Thu, 21 Jun 2007 21:18:13 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2007/06/the-love-machine-vol-1/</guid>
+      <description>OK, I just learned that there&amp;#8217;s now a facebook application called &amp;#8220;the love machine&amp;#8221; which is quite similar to the one we use at work &amp;#8212; except that it&amp;#8217;s out there for everyone to use!
+Curiously, it was created by Ooga Labs who have our CEO as an advisor (on their board?). As our CTO has said, (paraphrasing) &amp;#8220;Now that facebook has announced their API/platform, never build another in-house social networking app&amp;#8221;.</description>
+    </item>
+    
+    <item>
+      <title>Mac Whines</title>
+      <link>https://blog.accapehart.com/2006/10/mac-whines/</link>
+      <pubDate>Sat, 28 Oct 2006 22:02:14 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2006/10/mac-whines/</guid>
+      <description>I&amp;#8217;ve spent a reasonable amount of time in each of Windows XP, Ubuntu and MacOS X for desktop computing, and I have all three available to me right now. But mostly, I find myself in the MacOS. Partly this is a machine issue &amp;#8212; the Intel box that dual boots XP/Ubuntu I built years ago and sounds like&amp;#8230; well like someone who wanted to put a lot of hardware in and so needed a lot of fans.</description>
+    </item>
+    
+    <item>
+      <title>Speed Week(end) Pt. 3</title>
+      <link>https://blog.accapehart.com/2006/10/speed-weekend-pt-3/</link>
+      <pubDate>Mon, 09 Oct 2006 05:52:00 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2006/10/speed-weekend-pt-3/</guid>
+      <description>The Go-Kart racing. That was fun, but I&amp;#8217;m still sore. A bunch of Lindens went down to Burlingame, CA where we went to GoKart Racer Where you do the racing (I guess at other GoKart places, your mom does the racing?)
+There were roughly 30 of us there for racing. The sign-in process wasn&amp;#8217;t bad, but was a little slow as we all had to go through a process for which there are a few computers, and of course we arrived as a bunch.</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on Lives (part 1 — history)</title>
+      <link>https://blog.accapehart.com/2006/04/thoughts-on-lives-part-1-history/</link>
+      <pubDate>Thu, 20 Apr 2006 19:46:14 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2006/04/thoughts-on-lives-part-1-history/</guid>
+      <description>I wanted to jot down some quick notes as I play Second Life about the nature of online relationships. As I started to write, I felt like I needed to include a little back story. Writing this intro paragraph, I realize that already what follows is too long for a single blog post, and I&amp;#8217;m not even out of the back story yet. That said, I&amp;#8217;m not going to break it up further.</description>
+    </item>
+    
+    <item>
+      <title>Disappointed in ICANN</title>
+      <link>https://blog.accapehart.com/2006/03/disappointed-in-icann/</link>
+      <pubDate>Fri, 03 Mar 2006 02:57:08 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2006/03/disappointed-in-icann/</guid>
+      <description>Anyone who knows me knows that I&amp;#8217;m a fan of the free market. I was disappointed to learn from the blog of godaddy.com founder Bob Parsons that ICANN apparently just handed Verisign a ticket to a monopoly unchecked by a competitive bidding process.</description>
+    </item>
+    
+    <item>
+      <title>Duration Plugin released</title>
+      <link>https://blog.accapehart.com/2006/02/duration-plugin-released/</link>
+      <pubDate>Wed, 15 Feb 2006 04:34:05 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2006/02/duration-plugin-released/</guid>
+      <description>I have just finished my first WordPress plugin. If you&amp;#8217;ve noticed Sam&amp;#8217;s age popping up at the bottom of posts in the Childhood &amp;amp; Fatherhood category, that&amp;#8217;s my plugin at work. If you&amp;#8217;ve noticed pages not acting quite right, well, that&amp;#8217;s my plugin when it wasn&amp;#8217;t working. 🙂
+I think I&amp;#8217;ve gotten it all fixed up now, and am releasing it to the relatively small community of people who read my blog.</description>
+    </item>
+    
+    <item>
+      <title>It’s NOT all about the poop!</title>
+      <link>https://blog.accapehart.com/2006/02/its-not-all-about-the-poop/</link>
+      <pubDate>Sat, 11 Feb 2006 21:18:39 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2006/02/its-not-all-about-the-poop/</guid>
+      <description>We&amp;#8217;ve taken some grief recently over SamTrak. People seem to think it&amp;#8217;s a bit beyond the pale to be tracking Sam&amp;#8217;s feeding and elimination habits on the Internet. But, there is reason to my madness. Because of her size, we needed to track feeding and elimination. Because it&amp;#8217;s me, it seemed easiest to do this online (access from any computer instead of &amp;#8220;Where&amp;#8217;s the little black poop notebook?&amp;#8221;). Now, I could have done it on my private house-network, but then Carolyn couldn&amp;#8217;t have accessed the information from work.</description>
+    </item>
+    
+    <item>
+      <title>De-Mac’ed, De-Diablo’ed</title>
+      <link>https://blog.accapehart.com/2006/01/de-maced-de-diabloed/</link>
+      <pubDate>Mon, 23 Jan 2006 04:33:40 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2006/01/de-maced-de-diabloed/</guid>
+      <description>In response to this query, I ended up with a 15&amp;#8243; powerbook. It&amp;#8217;s a pretty sweet machine even if they did just replace it with the &amp;#8220;4-times more powerful MacBook.&amp;#8221; I tried an Ubuntu install, but it failed to recognize the Superdrive as a source for the CD &amp;#8212; apparently Apple made some change to the drive with the October(&amp;#8217;05) model updates. There&amp;#8217;s a patch in Gentoo, but not (yet?) in Ubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Stupidity&#43;Hubris? Thy name is AC</title>
+      <link>https://blog.accapehart.com/2005/12/stupidityhubris-thy-name-is-ac/</link>
+      <pubDate>Sat, 24 Dec 2005 00:02:25 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/12/stupidityhubris-thy-name-is-ac/</guid>
+      <description>I tend to think of the server that my in-laws use for their business: http://www.fayrealestate.com/ as falling in the same category as my other &amp;#8220;personal&amp;#8221; machines &amp;#8212; like the one that hosts this blog, and http://www.santaal.com/ and so forth. I need to start thinking of them as clients instead.
+Yesterday, they were having some trouble. I did some investigation and found that a awstats vulnerability had been exploited. I was sure I&amp;#8217;d password-protected the awstats pages, but when I looked through the apache configs, I found no such thing.</description>
+    </item>
+    
+    <item>
+      <title>Never write anything digitally ever – redux</title>
+      <link>https://blog.accapehart.com/2005/12/never-write-anything-digitally-ever-redux/</link>
+      <pubDate>Wed, 21 Dec 2005 21:22:07 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/12/never-write-anything-digitally-ever-redux/</guid>
+      <description>I don&amp;#8217;t think he reads my blog, at least not with any regularity, but yesterday my brother-in-law IM&amp;#8217;ed me this URL: a newsgroup I posted to in 1991, in which I discuss a variety of topics from the LPMud I was helping run at the time, to the future of VR, to teledildonics &amp;#8212; all on a thread started by Howard Rheingold.
+Does anything on the internet ever really die? Who reads a nntp://sci.</description>
+    </item>
+    
+    <item>
+      <title>WordPress and Audiotron</title>
+      <link>https://blog.accapehart.com/2005/12/wordpress-and-audiotron/</link>
+      <pubDate>Tue, 06 Dec 2005 07:08:53 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/12/wordpress-and-audiotron/</guid>
+      <description>This is a geeky post. Non-geeks may safely skip over this post and still have a full breadth of understanding of my life (and Sam&amp;#8217;s, and to a lesser extent Carolyn&amp;#8217;s), or at least as full a one as can be had from this blog.
+There, now that that&amp;#8217;s out of the way, let me fill you in on what&amp;#8217;s up. I&amp;#8217;ve seen a few blogs (mostly LJ, but some others) that have a &amp;#8220;mood&amp;#8221; emoticon, and a little &amp;#8220;What I&amp;#8217;m listening to&amp;#8221; bar wherein users can type in the tunes they are currently jamming to.</description>
+    </item>
+    
+    <item>
+      <title>Switch-a-roo</title>
+      <link>https://blog.accapehart.com/2005/12/switch-a-roo/</link>
+      <pubDate>Sun, 04 Dec 2005 02:14:12 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/12/switch-a-roo/</guid>
+      <description>I had been using wordpress as managed by the Ubuntu package management system. This had caused a little bit of trouble because of the way it handled (or didn&amp;#8217;t handle) multiple installations. It more recently became even more trouble because it has PHP4 as a requirement, but I wanted to install something else that had PHP5 as a requirement. I&amp;#8217;m pretty sure that wordpress will do just fine under PHP5, but it would have been auto-un-installed with the move from PHP4 to PHP5.</description>
+    </item>
+    
+    <item>
+      <title>Computer Suggestions</title>
+      <link>https://blog.accapehart.com/2005/10/computer-suggestions/</link>
+      <pubDate>Sat, 29 Oct 2005 15:18:33 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/10/computer-suggestions/</guid>
+      <description>If I get paid for some recent work, I think I&amp;#8217;ll have enough dough for a new computer. This is good because while I have a fleet of computers, they&amp;#8217;re all old and getting older. My newest one is about 3 years old &amp;#8212; about the usable lifespan of a computer. I&amp;#8217;m trying to decide what computer to get next and am soliciting your input.
+So far in my life, I&amp;#8217;ve never purchased a laptop for myself.</description>
+    </item>
+    
+    <item>
+      <title>Samantha DNS or server trouble</title>
+      <link>https://blog.accapehart.com/2005/10/samantha-dns-or-server-trouble/</link>
+      <pubDate>Tue, 18 Oct 2005 20:45:01 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/10/samantha-dns-or-server-trouble/</guid>
+      <description>I&amp;#8217;ve heard from a couple of people now that they&amp;#8217;ve had trouble accessing Samantha&amp;#8217;s website, or SamTrak from her site. I suspect DNS trouble. I set these sorts of things up with some regularity, so I should have a pretty good idea of what to do. Alas, I usually do it on more sleep than I had recently, so I could have screwed something up. It all works for me, but I use my own DNS servers.</description>
+    </item>
+    
+    <item>
+      <title>Gallery 2.0 Released</title>
+      <link>https://blog.accapehart.com/2005/09/gallery-20-released/</link>
+      <pubDate>Wed, 14 Sep 2005 05:59:51 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/09/gallery-20-released/</guid>
+      <description>Gallery 2.0 was released yesterday. At least, I got mail about it at 11:04 PM yesterday. Generally, I&amp;#8217;m not a &amp;#8220;dot-oh&amp;#8221; person. I&amp;#8217;m a pretty strong believer in letting others live on the bleeding edge. And while Gallery 2.0, is certainly a &amp;#8220;dot-oh&amp;#8221;, I suspect it&amp;#8217;s pretty well tested having been in design and development for 3 years through through 4 alpha releases, 4 beta releases and 2 release candidates. So, I&amp;#8217;ve created gallery2.</description>
+    </item>
+    
+    <item>
+      <title>Computer Security Article</title>
+      <link>https://blog.accapehart.com/2005/09/computer-security-article/</link>
+      <pubDate>Fri, 09 Sep 2005 22:20:40 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/09/computer-security-article/</guid>
+      <description>Thanks to the Neon Guild I was just exposed to an exceptional article on computer (and network) security. The article is well-written, easy to read, and an important reminder to anyone that administers a network. Author Marcus Ranum is recognized as the inventor of the proxy firewall, and the implementor of the first commercial firewall product, and it&amp;#8217;s quite pleasant to come across a technologist who is readable in print. I&amp;#8217;m going to add this link to My Wiki as well, as it is doubtless something I&amp;#8217;ll need to re-read every few months.</description>
+    </item>
+    
+    <item>
+      <title>Blog Done Enough</title>
+      <link>https://blog.accapehart.com/2005/08/blog-done-enough/</link>
+      <pubDate>Tue, 30 Aug 2005 15:15:32 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/08/blog-done-enough/</guid>
+      <description>OK. I&amp;#8217;m declaring my blog &amp;#8220;done enough&amp;#8221; at this point. I&amp;#8217;ve re-introduced the Google &amp;#8220;AdSense&amp;#8221; ads. Which, as I&amp;#8217;m sure you know is important to my revenue plans for this site. I&amp;#8217;ve earned an average of a little over 43 cents every month since I started Adsense. Of course, they don&amp;#8217;t cut a check until you&amp;#8217;ve accumulcated a credit of $100. At this rate, I&amp;#8217;ll get my first check in 19.</description>
+    </item>
+    
+    <item>
+      <title>More on the blog switch</title>
+      <link>https://blog.accapehart.com/2005/08/more-on-the-blog-switch/</link>
+      <pubDate>Mon, 29 Aug 2005 05:58:26 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/08/more-on-the-blog-switch/</guid>
+      <description>I spent far too much of today copying the old blogger entries into wordpress. I suspect it was still faster than writing a parser to scan previous entries and dump them into the mysql database that wordpress uses, though I&amp;#8217;m not sure. The main thing that I&amp;#8217;ve not done is to move over the image-only posts. Oh, and figure out comments. There were several nice and interesting comments that elaborated on entries that will be lost with the current transition.</description>
+    </item>
+    
+    <item>
+      <title>An end to hierarchy</title>
+      <link>https://blog.accapehart.com/2005/08/an-end-to-hierarchy/</link>
+      <pubDate>Sun, 07 Aug 2005 22:36:09 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/08/an-end-to-hierarchy/</guid>
+      <description>When the web was infantile, there was no real way to know what was new. During its toddler stage, information about new websites was passed around via email or on USENET. Eventually, there became too many sites being created for this to be a reasonable way to keep up. (A similar issue plagued the single /etc/hosts file, but that&amp;#8217;s a different story.)
+Finally, there came Yahoo. Now, there was a directory for the web.</description>
+    </item>
+    
+    <item>
+      <title>Toy Excitement – Audiotron AT-100</title>
+      <link>https://blog.accapehart.com/2005/08/toy-excitement-audiotron-at-100/</link>
+      <pubDate>Tue, 02 Aug 2005 19:31:21 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/08/toy-excitement-audiotron-at-100/</guid>
+      <description>One of the things that I&amp;#8217;d meant to do with this blog is some technical-review sorts of things for my toys. I don&amp;#8217;t tend to get a lot of tech toys. I don&amp;#8217;t make enough money to get a lot of tech toys. But I do get some, and I&amp;#8217;d like to talk about &amp;#8217;em so that you could have some idea if you would like to add them to your tech toy-chest.</description>
+    </item>
+    
+    <item>
+      <title>How could I have been so careless?!?</title>
+      <link>https://blog.accapehart.com/2005/07/how-could-i-have-been-so-careless/</link>
+      <pubDate>Thu, 28 Jul 2005 13:51:27 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/07/how-could-i-have-been-so-careless/</guid>
+      <description>I got this mail today. It cracked me up. I can see how it might work for a really big organization or ISP. But for a personally-owned/managed vanity domain?
+Dear Accapehart Member,&amp;lt;br /&amp;gt; We have temporarily suspended your email account &amp;amp;#0097;ccap&amp;amp;#0101;hart@accapehart.com.&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;This might be due to either of the following reasons:&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;1. A recent change in your personal information (i.e. change of address).&amp;lt;br /&amp;gt; 2. Submiting invalid information during the initial sign up process.</description>
+    </item>
+    
+    <item>
+      <title>CSS Woah!</title>
+      <link>https://blog.accapehart.com/2005/07/css-woah/</link>
+      <pubDate>Thu, 14 Jul 2005 15:56:54 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/07/css-woah/</guid>
+      <description>OK, I&amp;#8217;ve known CSS is cool and powerfull. And I&amp;#8217;ve tried to start to make the shift (including for this blog itself). Some links have come across the Neon Guild for which I was apprciative. (I&amp;#8217;ve collected them in my wiki.) But I was blown away by the CSS Zen Garden. All of the CSS stuff that I&amp;#8217;ve done has still required that the things I want designed to have special s or s or whatever.</description>
+    </item>
+    
+    <item>
+      <title>Those amusing web stats programs</title>
+      <link>https://blog.accapehart.com/2005/04/those-amusing-web-stats-programs/</link>
+      <pubDate>Fri, 29 Apr 2005 14:31:58 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/04/those-amusing-web-stats-programs/</guid>
+      <description>Joe, the author of Dadblog &amp;#8212; one of the 2 blogs that I read where I don&amp;#8217;t know the author &amp;#8212; wrote to me today. Apparently, he was looking through his web log analysis software, and saw a referrer he didn&amp;#8217;t recognize (my blog). He checked me out and correctly deduced that we have a common friend in Clinton.
+This spurred me to check my own logs. 
+Almost everything was as I expected but for 2 things:</description>
+    </item>
+    
+    <item>
+      <title>Doomed, I tell you! Doomed!</title>
+      <link>https://blog.accapehart.com/2005/04/doomed-i-tell-you-doomed/</link>
+      <pubDate>Fri, 29 Apr 2005 04:38:54 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/04/doomed-i-tell-you-doomed/</guid>
+      <description>The universe doesn&amp;#8217;t want me to tell you about my motorcycling. Now, for the second time, I&amp;#8217;ve started a post about my history motorcycling only to have the process fail unrecoverably.
+The first time, submitting the completed post to Blogger, I got a server error page. Pressing the back button, I was faced with an empty page.
+This time, I was looking for a web image of a Suzuki GS 550 ES (the first bike I bought), and clicking back in a separate tab caused FIREFOX on LINUX to just disappear.</description>
+    </item>
+    
+    <item>
+      <title>la publicaciÃ³n estÃ¡ en proceso</title>
+      <link>https://blog.accapehart.com/2005/04/la-publicacion-esta-en-proceso/</link>
+      <pubDate>Fri, 29 Apr 2005 03:14:20 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/04/la-publicacion-esta-en-proceso/</guid>
+      <description>Every now and again, I&amp;#8217;d been seeing little bits of Spanish on the web. But it didn&amp;#8217;t occur to me as to why until I was publishing my last blog entry.
+There is a designer in the Neon Guild1who is proposing to do a site for a client. The designer talked to Jack about doing internationalization for the client. Jack talked to me. I experimented with it (here) to make sure I knew what I&amp;#8217;d do.</description>
+    </item>
+    
+    <item>
+      <title>Geek Moment: RoR waaay cool</title>
+      <link>https://blog.accapehart.com/2005/04/geek-moment-ror-waaay-cool/</link>
+      <pubDate>Sun, 24 Apr 2005 18:48:00 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/04/geek-moment-ror-waaay-cool/</guid>
+      <description>So, I started playing around more with Ruby on Rails (RoR) recently. I&amp;#8217;m seriously impressed. There&amp;#8217;s an excellent tutorial available that walks you through making a todo list application via rails.
+I&amp;#8217;ve done a fair amount of CGI programming in Python. And a good bit of Java servlet application programming. Neither feels as natural as RoR. I feel like once I actually have a better handle on both the Ruby language itself, and the Rails framework, I&amp;#8217;ll be able to pump out database-supported web applications quickly and with a minimum of fuss.</description>
+    </item>
+    
+    <item>
+      <title>Buy Bye Bluetooth</title>
+      <link>https://blog.accapehart.com/2005/04/buy-bye-bluetooth/</link>
+      <pubDate>Thu, 07 Apr 2005 22:33:21 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/04/buy-bye-bluetooth/</guid>
+      <description>I bought it because I was sure I would love it. A Bluetooth headset so I could use my cell phone hands free, and without wires. Only I pretty much never use it. It&amp;#8217;s off, or inaccessible, or I&amp;#8217;ve got to pair it again, or&amp;#8230; it&amp;#8217;s always something. And given the choice between that, and some cold, hard cash in my paypal account&amp;#8230; I&amp;#8217;m going for the dough.
+So, treat yourself to a Bluetooth headset.</description>
+    </item>
+    
+    <item>
+      <title>Subversion Woes</title>
+      <link>https://blog.accapehart.com/2005/03/subversion-woes/</link>
+      <pubDate>Mon, 07 Mar 2005 17:09:16 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/03/subversion-woes/</guid>
+      <description>[file under geeky. Why doesn&amp;#8217;t blogger have categories for cryin&amp;#8217; out loud? It&amp;#8217;s not like most of you want to read this junk.]
+Well, that was frustrating. After my friend was cracked, I decided that it would be smart to keep my web content in a revision control system. That way, when some malicious cracker replaced all of my index files with self-congratulatory tripe, all I&amp;#8217;d really need to do would be to restore from the repository.</description>
+    </item>
+    
+    <item>
+      <title>Vanity</title>
+      <link>https://blog.accapehart.com/2005/02/vanity/</link>
+      <pubDate>Sun, 06 Feb 2005 17:02:31 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/02/vanity/</guid>
+      <description>This morning, I was feeling pretty good about myself. I was reviewing a Java Web Services Tutorial and it was making sense. I tried the examples, and with a little bit of classpath fudging, I got them to work. I tried a quote generator I found on xmethods.com and got it to work. I was impressed with myself. Then I looked through the &amp;#8220;additional resources&amp;#8221; section at the end and found my way to a book on XML-RPC.</description>
+    </item>
+    
+    <item>
+      <title>Adding Sense</title>
+      <link>https://blog.accapehart.com/2005/02/adding-sense/</link>
+      <pubDate>Sat, 05 Feb 2005 17:04:59 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/02/adding-sense/</guid>
+      <description>On a lighter note, I applied for Google AdSense ads today for the blog. I have no idea if they&amp;#8217;ll take it, and I&amp;#8217;m sure I don&amp;#8217;t have the readership to actually generate enough money to care about. But, I thought I&amp;#8217;d try it.
+I mention this partly because I think it&amp;#8217;s noteworthy. But what cracked me up was when I found the online version of the Wired print article concerning the postal monopoly for my previous blog entry, I saw that the wired article also had Google AdSense ads.</description>
+    </item>
+    
+    <item>
+      <title>Computers – The anti-zen?</title>
+      <link>https://blog.accapehart.com/2005/01/computers-the-anti-zen/</link>
+      <pubDate>Thu, 27 Jan 2005 02:43:54 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/01/computers-the-anti-zen/</guid>
+      <description>I&amp;#8217;m writing this after the fact (by a couple of days) instead of as it was intended (by a couple of hours). Still interesting (to me).
+I&amp;#8217;m on a vacation of sorts, in Southern Maryland, or SOMD as I&amp;#8217;ve taken to calling it1. I decided not to bring my laptop because I had a certain confidence there would be no Internet connectivity where we were staying. My cell phone broke, so today, I&amp;#8217;m really disconnected.</description>
+    </item>
+    
+    <item>
+      <title>GMail</title>
+      <link>https://blog.accapehart.com/2005/01/gmail/</link>
+      <pubDate>Sat, 22 Jan 2005 00:56:49 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/01/gmail/</guid>
+      <description>For those that don&amp;#8217;t know, Google&amp;#8217;s now offering a webmail service. The &amp;#8220;advantage&amp;#8221; to google&amp;#8217;s mail is that you get a gig of storage, and you get google&amp;#8217;s search interface to your stuff. The idea being &amp;#8212; why bother to trash stuff or sort/organize it. Just archive it all and search for what you need. Maybe that&amp;#8217;ll work. I dunno.
+But, since &amp;#8220;gmail&amp;#8221; is still in &amp;#8220;beta&amp;#8221;, it&amp;#8217;s by invitation only.</description>
+    </item>
+    
+    <item>
+      <title>Folding Game Design</title>
+      <link>https://blog.accapehart.com/2005/01/folding-game-design/</link>
+      <pubDate>Fri, 21 Jan 2005 22:22:02 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/01/folding-game-design/</guid>
+      <description>I had written something like this earlier, but it disappeared into the ether with a 500 Error from blogger.com. What follows is a re-creation, doubtless somewhat more organized, but less impassioned than the original.)
+I don&amp;#8217;t like folding laundry. And I don&amp;#8217;t understand folding proteins. But, thanks to Folding@Home I&amp;#8217;m now doing my part toward their goal to understand protein folding, protein aggregation, and related diseases. But, it&amp;#8217;s not the hidden-bio-geek in me that&amp;#8217;s enjoying this.</description>
+    </item>
+    
+    <item>
+      <title>Tomcat rant</title>
+      <link>https://blog.accapehart.com/2005/01/tomcat-rant/</link>
+      <pubDate>Tue, 18 Jan 2005 14:21:52 +0000</pubDate>
+      <author>choicywhiteboy@accapehart.com (AC Capehart)</author>
+      <guid>https://blog.accapehart.com/2005/01/tomcat-rant/</guid>
+      <description>OK, I kinda meant to have complained, or at least thought (in the blog) about money, job, life etc. But that just hasn&amp;#8217;t come up as strongly as it could have in the past few days. I&amp;#8217;m sure one will come soon though.
+But today I want to rant. I guess this is kind of a rant about job because if I were in an office with other geeks, especially other linux admin/java geeks, I might just get answers to my problems instead of having to google them (with limited success.</description>
+    </item>
+    
+  </channel>
+</rss>
